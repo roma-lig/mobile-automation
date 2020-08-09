@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004 - signOut</name>
+   <tag></tag>
+   <comment>Sign Out successful!</comment>
+   <testCaseGuid>cbe7609b-609c-48e0-be7f-36f5e8fbef38</testCaseGuid>
+</TestCaseEntity>

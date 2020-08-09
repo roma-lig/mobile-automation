@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign in using valid credentials</description>
+   <name>TC001 - validSignIn</name>
+   <tag></tag>
+   <comment>Login successful!</comment>
+   <testCaseGuid>5b5dbe0e-61cd-40dd-af62-a994ecf985e2</testCaseGuid>
+</TestCaseEntity>

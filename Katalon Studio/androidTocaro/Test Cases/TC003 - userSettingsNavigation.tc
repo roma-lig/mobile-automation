@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003 - userSettingsNavigation</name>
+   <tag></tag>
+   <comment>Screen navigation successful!</comment>
+   <testCaseGuid>0c0f5ece-d831-4bbe-91b7-6dee9c356cea</testCaseGuid>
+</TestCaseEntity>

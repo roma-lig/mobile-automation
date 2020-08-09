@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002 - navigateFooter</name>
+   <tag></tag>
+   <comment>Screen navigation successful!</comment>
+   <testCaseGuid>efde4428-f61a-45d5-813e-5d43079a09fa</testCaseGuid>
+</TestCaseEntity>
