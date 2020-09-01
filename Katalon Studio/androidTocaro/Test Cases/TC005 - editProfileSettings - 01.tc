@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if able to edit profile details and whether the values are displayed in the Settings page.
+
+Pre-condition:
+New user with the following details
+Tel = null
+Company = null
+Department = null
+Position = null</description>
+   <name>TC005 - editProfileSettings - 01</name>
+   <tag></tag>
+   <comment>Profile edit successful!</comment>
+   <testCaseGuid>8d7ee533-9781-4a0c-b68c-50faf885d70b</testCaseGuid>
+</TestCaseEntity>
